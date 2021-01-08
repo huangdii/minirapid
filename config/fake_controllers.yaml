@@ -1,0 +1,8 @@
+controller_list:
+  - name: fake_ss_controller
+    joints:
+      - LM_joint
+      - RM_joint
+initial:  # Define initial robot poses.
+  - group: ss
+    pose: ss

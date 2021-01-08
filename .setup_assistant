@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: JIYOON_1st
+    relative_path: urdf/JIYOON_1st.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/JIYOON_1st.srdf
+  CONFIG:
+    author_name: sadasd
+    author_email: asdasdsad@asdasd.com
+    generated_timestamp: 1610000404
